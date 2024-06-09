@@ -31,3 +31,14 @@ Kullanıcılar bir yemeğe tıkladıklarında, o yemeğin detaylarını göstere
 Kullanıcının seçtiği yemeğin detaylarını gösteren ekran.
 
 Yemek adı, görseli ve tarifi gibi detaylar bu ekranda yer alıyor.
+
+
+# Önemli Noktalar
+
+http paketi kullanılarak API'den veri alınıyor.
+
+setState() metodu kullanılarak ekran yenileniyor ve veriler güncelleniyor.
+
+ListView.builder widget'ı kullanılarak dinamik liste oluşturuluyor.
+
+Navigator.pushNamed metodu kullanılarak sayfa yönlendirmeleri yapılıyor.
