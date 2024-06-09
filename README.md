@@ -86,5 +86,3 @@ Refresh the screen and update the data using the SetState() method.
 Create a dynamic list using the ListView.builder widget.
 
 Use the Navigator.pushNamed method to redirect the page.
-
-Translated with DeepL.com (free version)
