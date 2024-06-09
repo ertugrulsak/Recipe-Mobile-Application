@@ -10,7 +10,9 @@ Mobile Application Development Dersi Final Proje Ödevi
 
 1030510153 - Ertuğrul SAK
 
+# Geliştirme Ortamı
 
+Project IDX, web tabanlı bir geliştirme ortamıdır ve Flutter projeleri geliştirmek için idealdir. Bu platformda, sıfırdan bir Flutter projesi oluşturarak üç sayfalık bir yemek tarifi uygulaması geliştirdim.
 
 # CategoriesScreen:
 
