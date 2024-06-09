@@ -8,6 +8,8 @@ Dr. Öğr. Üyesi FEHİM KÖYLÜ
 
 Mobile Application Development Dersi Final Proje Ödevi
 
+1030510153 - Ertuğrul SAK
+
 
 
 # CategoriesScreen:
