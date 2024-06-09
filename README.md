@@ -10,7 +10,7 @@ Mobile Application Development Dersi Final Proje Ödevi
 
 
 
-#CategoriesScreen:
+# CategoriesScreen:
 
 Uygulamanın açılış ekranı, kullanıcıları farklı yemek kategorilerini listeleyerek karşılıyor.
 
@@ -18,7 +18,7 @@ Kullanıcılar bir kategoriye tıkladıklarında, o kategoriye ait yemeklerin li
 
 
 
-#HomeScreen:
+# HomeScreen:
 
 Kullanıcının seçtiği kategorideki yemekleri listeleyen ekran.
 
@@ -26,7 +26,7 @@ Kullanıcılar bir yemeğe tıkladıklarında, o yemeğin detaylarını göstere
 
 
 
-#DetailScreen:
+# DetailScreen:
 
 Kullanıcının seçtiği yemeğin detaylarını gösteren ekran.
 
