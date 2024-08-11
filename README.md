@@ -1,14 +1,3 @@
-# Mobile Application Project
-
-ERCİYES ÜNİVERSİTESİ
-
-BİLGİSAYAR MÜHENDİSLİĞİ
-
-Dr. Öğr. Üyesi FEHİM KÖYLÜ
-
-Mobile Application Development Dersi Final Proje Ödevi
-
-1030510153 - Ertuğrul SAK
 
 # Geliştirme Ortamı
 
